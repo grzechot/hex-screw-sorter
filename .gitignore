@@ -1,0 +1,7 @@
+out/
+stl/
+*.FCStd
+*.FCBak
+freecad_view.py
+set_M3/set_M3_view.*
+__pycache__/
